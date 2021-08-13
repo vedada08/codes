@@ -1,4 +1,4 @@
-//program to implement autocorrect feature using trie(prefix tree).
+//program to implement autocomplete feature using trie(prefix tree).
 #include<bits/stdc++.h>
 
 #include<fstream>
